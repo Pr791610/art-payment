@@ -83,7 +83,8 @@ Creating a complete:
 
 ## ⚙️ Repository Structure
 </html>mailto:manasievnikola79@gmail.com 
-© 2025 N.M. MANASIA – All Rights Reserved
+</html>© 2025 N.M. MANASIA – All Rights Reserved
+
 
 <!DOCTYPE html>
 <html>
