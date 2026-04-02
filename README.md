@@ -82,8 +82,64 @@ Creating a complete:
 ---
 
 ## ⚙️ Repository Structure
-
+manasievnikola79@gmail.com 
 
 © 2025 N.M. MANASIA – All Rights Reserved
 
 Add fail:
+<!DOCTYPE html>
+<html>
+<head>
+<title>N.M. MANASIA – Order & Payment</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body style="font-family:Arial; background:black; color:gold; text-align:center; padding:20px;">
+
+<h1>N.M. MANASIA</h1>
+<h2>Art Order & Activation System</h2>
+
+<p>Complete the form and proceed with payment</p>
+
+<hr>
+
+<h3>📋 Order Form</h3>
+
+<form action="mailto:YOUR_EMAIL_HERE" method="post" enctype="text/plain">
+
+<input type="text" name="Name" placeholder="Your Name" required style="padding:10px; width:80%;"><br><br>
+
+<input type="email" name="Email" placeholder="Your Email" required style="padding:10px; width:80%;"><br><br>
+
+<input type="text" name="Artwork" placeholder="Artwork / Book Name" required style="padding:10px; width:80%;"><br><br>
+
+<input type="text" name="Amount" placeholder="Amount (€)" required style="padding:10px; width:80%;"><br><br>
+
+<textarea name="Message" placeholder="Additional Message" style="padding:10px; width:80%; height:100px;"></textarea><br><br>
+
+<button type="submit" style="padding:15px; font-size:18px;">Submit Order</button>
+
+</form>
+
+<hr>
+
+<h3>💳 Payment Information</h3>
+
+<p><b>Name:</b> Nikolce Manasiev</p>
+<p><b>IBAN:</b> MK07210501678618611</p>
+<p><b>SWIFT:</b> TUTNMK22</p>
+<p><b>Bank:</b> NLB Banka Skopje</p>
+
+<p><b>Scan QR or copy details to complete payment</b></p>
+
+<hr>
+
+<h3>🔐 Activation</h3>
+
+<p>After payment, send confirmation via email.</p>
+<p>Access to artwork, book, and certificate will be provided by the author.</p>
+
+</body>
+</html>
+<manasievnikolce5@gmail.com 
+© 2025 N.M. MANASIA – All Rights Reserved
