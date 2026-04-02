@@ -19,7 +19,6 @@ Professional integrated system combining:
 
 ## 🎨 Artwork Galleries
 
-👉https://photos.app.goo.gl/6tTNSAjKrMZGoqGWA
 ---
 
 ## 📄 Certificates System
