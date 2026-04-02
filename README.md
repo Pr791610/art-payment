@@ -82,16 +82,14 @@ Creating a complete:
 ---
 
 ## ⚙️ Repository Structure
-manasievnikola79@gmail.com 
-
+</html>mailto:manasievnikola79@gmail.com 
 © 2025 N.M. MANASIA – All Rights Reserved
 
-Add fail:
 <!DOCTYPE html>
 <html>
 <head>
-<title>N.M. MANASIA – Order & Payment</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>N.M. MANASIA – Order System</title>
 </head>
 
 <body style="font-family:Arial; background:black; color:gold; text-align:center; padding:20px;">
@@ -105,7 +103,7 @@ Add fail:
 
 <h3>📋 Order Form</h3>
 
-<form action="mailto:YOUR_EMAIL_HERE" method="post" enctype="text/plain">
+<form action="mailto:YOUR_EMAIL@gmail.com" method="post" enctype="text/plain">
 
 <input type="text" name="Name" placeholder="Your Name" required style="padding:10px; width:80%;"><br><br>
 
@@ -113,11 +111,13 @@ Add fail:
 
 <input type="text" name="Artwork" placeholder="Artwork / Book Name" required style="padding:10px; width:80%;"><br><br>
 
-<input type="text" name="Amount" placeholder="Amount (€)" required style="padding:10px; width:80%;"><br><br>
+<input type="number" name="Amount" placeholder="Amount (€)" required style="padding:10px; width:80%;"><br><br>
 
 <textarea name="Message" placeholder="Additional Message" style="padding:10px; width:80%; height:100px;"></textarea><br><br>
 
-<button type="submit" style="padding:15px; font-size:18px;">Submit Order</button>
+<button type="submit" style="padding:15px; font-size:18px; background:gold; color:black;">
+Submit Order
+</button>
 
 </form>
 
@@ -140,6 +140,4 @@ Add fail:
 <p>Access to artwork, book, and certificate will be provided by the author.</p>
 
 </body>
-</html>
-<manasievnikolce5@gmail.com 
-© 2025 N.M. MANASIA – All Rights Reserved
+</html>mailto:manasievnikolce5@gmail.com 
