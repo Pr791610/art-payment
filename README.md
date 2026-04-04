@@ -1,8 +1,7 @@
 # N.M. MANASIA – Art Payment & Book System
 
 ## 🌐 Live Platform
-👉 https://Pr791610.github.io/art-payment/
-
+👉 https://Pr791610.github.io-art-payment-  
 ---
 
 ## 📚 Overview
@@ -48,8 +47,7 @@ Scan to view full collection
 
 ### 💳 Secure Payment
 Scan for direct payment system  
-👉 https://Pr791610.github.io/art-payment/
-
+👉 https://Pr791610.github.io-art-payment-  
 ---
 
 ## 🎟 Collector Benefits
