@@ -1,7 +1,7 @@
 # N.M. MANASIA – Art Payment & Book System
 
 ## 🌐 Live Platform
-👉 https://Pr791610.github.io-art-payment-  
+👉 [https://github.com/Pr791610/https-Pr791610.github.io-art-payment-/tree/main
 ---
 
 ## 📚 Overview
